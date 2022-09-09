@@ -10,6 +10,10 @@
     background-color: #fff;
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -26,11 +30,7 @@
     background-color: #525252;
 }
 
-.bg-color-personal-info {
-    background-color: #f4f4f4;
-}
-
-/*--------------------------------------------Special paddings/margins/text*/
+/* ----------------------------------------Special paddings/margins/text */
 
 h1,
 h2,
@@ -163,7 +163,7 @@ header {
     height: 120px;
 }
 
-/*--------------------------------------------Footer*/
+/* ----------------------------------------Footer */
 
 footer {
     background-color: #525252;
@@ -215,7 +215,7 @@ footer {
     padding: 20px;
 }
 
-/*--------------------------------------------Three reasons*/
+/* ----------------------------------------Three Reasons */
 
 .three-reasons-icon {
     font-size: 26px;
@@ -226,7 +226,7 @@ footer {
     margin-bottom: 15px;
 }
 
-/*--------------------------------------------Personal Info */
+/* ----------------------------------------Personal Info */
 
 .personal-info-item {
     margin-bottom: 20px;
@@ -234,13 +234,13 @@ footer {
     clear: both;
 }
 
-.personal-info-item .key, 
+.personal-info-item .key,
 .personal-info-item .value {
     padding-right: 8px;
     display: inline-block;
 }
 
-.personal-info-item .key p, 
+.personal-info-item .key p,
 .personal-info-item .value p {
     margin: 0;
 }
